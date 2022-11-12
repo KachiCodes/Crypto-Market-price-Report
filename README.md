@@ -25,4 +25,4 @@ Symbol: The symbol of each cryptocurrency.
 Name: Name of each cryptocurrency. The Datetime Column was changed from object to dataetime data type.
 
 You can view the Dashboard Report here for this project. It is an interactive report where I analyzed market trends, prices, Total MarketCap and Total Volume of the selected cryptocurrencies based on 95% confidence values within the last 10 months. 
-https://app.powerbi.com/view?r=eyJrIjoiODE1Y2U4ZDgtYjI4Zi00YzQ3LTgwNGMtMjg2YWY0MWE3NTJjIiwidCI6ImJlMzU5MjJmLTYwNzgtNDRhMi04ZDlmLTFiMjkwNTM4MGJhYyJ9
+https://app.powerbi.com/view?r=eyJrIjoiODE1Y2U4ZDgtYjI4Zi00YzQ3LTgwNGMtMjg2YWY0MWE3NTJjIiwidCI6ImJlMzU5MjJmLTYwNzgtNDRhMi04ZDlmLTFiMjkwNTM4MGJhYyJ9&pageName=ReportSection
